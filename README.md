@@ -1,4 +1,4 @@
-# weather-ap-angular      
+# weather-app-angular      
 N/B: when using angular version 17 upward  if you want to obtain your app.module.ts package   
 at the level of  ng new projectName to create a new project use
 ng new projectName --no-standalone
